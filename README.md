@@ -1,4 +1,4 @@
-# Resources Status Simulation -
+# Resources Status Simulation 
 
 
 Introduction
